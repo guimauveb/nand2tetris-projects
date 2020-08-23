@@ -1,0 +1,12 @@
+@LCL
+D=M
+@0
+D=D+A
+M=D
+@SP
+M=M-1
+A=M
+D=M
+@0
+A=M
+M=D

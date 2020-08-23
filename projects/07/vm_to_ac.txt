@@ -1,0 +1,3 @@
+pop local i -> addr = LCL+i, SP--, *addr = *SP
+
+push local i -> addr = LCL+i, *SP = *addr, SP++

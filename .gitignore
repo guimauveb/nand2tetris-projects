@@ -1,0 +1,22 @@
+# ignore uncompleted projects folders
+09/
+10/
+11/
+12/
+13/
+
+#ignore folders that don't contain projects
+demo/
+00/
+
+# ignore pdfs
+*.pdf
+
+# ignore every test / cmp files
+*.cmp
+*.tst
+*.out
+
+# ignore images
+*.jpg
+*.png
