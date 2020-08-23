@@ -12,6 +12,9 @@ demo/
 # ignore pdfs
 *.pdf
 
+# ignore text files
+*.txt
+
 # ignore every test / cmp files
 *.cmp
 *.tst
@@ -20,3 +23,5 @@ demo/
 # ignore images
 *.jpg
 *.png
+nand2tetris_backup/
+tools/
