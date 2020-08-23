@@ -11,16 +11,16 @@ the assembler / VM translator in the software section.
 
 At the time I completed the projects I made sure they passed all the tests included. So everything should work.
 
-Project 1: DONE
-Project 2: DONE 
-Project 3: DONE
-Project 4: DONE
-Project 5: DONE
-Project 6: DONE
-Project 7: DONE
-Project 8: DONE  
-Project 9: TODO
-Project 10: TODO
-Project 11: TODO
-Project 12: TODO
-Project 13: TODO
+Project 1: DONE   
+Project 2: DONE   
+Project 3: DONE  
+Project 4: DONE  
+Project 5: DONE  
+Project 6: DONE  
+Project 7: DONE  
+Project 8: DONE    
+Project 9: TODO  
+Project 10: TODO  
+Project 11: TODO  
+Project 12: TODO  
+Project 13: TODO  
